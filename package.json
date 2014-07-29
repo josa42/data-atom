@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "mssql": "^0.5.3",
+    "mysql": "^2.4.1",
     "pg": "^3.2.0",
     "underscore": "^1.6.0",
     "underscore.string": "^2.3.3"
